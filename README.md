@@ -61,5 +61,9 @@ No momento, não há contribuições externas visto o objetivo de checar a minha
 
 ## Licença
 
+Este projeto não possui licença definida. É livre a sua utilização, modificação e distribuição.
 
+## Conclusão
+
+Este projeto me permitiu rever um pouco sobre JavaScript / HTML (Utilização de arrays e integração com o código HTML) e diversos comandos git, me possibilitando realizar minha primeira publicação de código.
 ---
