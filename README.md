@@ -67,4 +67,5 @@ Este projeto não possui licença definida. É livre a sua utilização, modific
 ## Conclusão
 
 Este projeto me permitiu rever um pouco sobre JavaScript / HTML (Utilização de arrays e integração com o código HTML) e diversos comandos git, me possibilitando realizar minha primeira publicação de código.
+
 ---
