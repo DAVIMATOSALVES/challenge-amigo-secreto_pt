@@ -61,6 +61,5 @@ No momento, não há contribuições externas visto o objetivo de checar a minha
 
 ## Licença
 
-Este projeto não possui licença definida. É livre a sua utilização, modificação e distribuição.
 
 ---
